@@ -1,0 +1,36 @@
+#you can modify ooze colors here
+#make sure to only use valid team colors(red,blue,green,purple,black,orange,white,brown,teal < those must be lowercase!)
+#note that your color changes won't affect other players in a network game even if you are host
+
+#define GIANT_OOZE_COLOR_1
+green
+#enddef
+
+#define OOZE_COLOR_1
+green
+#enddef
+
+#define GIANT_OOZE_EYE_COLOR_1
+red
+#enddef
+
+#define OOZE_EYE_COLOR_1
+red
+#enddef
+
+#colours for player 2 in multiplayer
+#define GIANT_OOZE_COLOR_2
+green
+#enddef
+
+#define OOZE_COLOR_2
+green
+#enddef
+
+#define GIANT_OOZE_EYE_COLOR_2
+teal
+#enddef
+
+#define OOZE_EYE_COLOR_2
+teal
+#enddef
