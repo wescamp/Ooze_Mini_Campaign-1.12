@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Ooze Mini Campaign-1.12\n"
+"Project-Id-Version: Ooze Mini Campaign\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-30 18:59+0100\n"
-"PO-Revision-Date: 2013-01-28 21:19+0100\n"
+"PO-Revision-Date: 2014-04-07 20:22+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.6.4\n"
 
 #. [campaign]: id=ooze_campaign
 #: Ooze_Mini_Campaign/_main.cfg:8
@@ -536,7 +536,7 @@ msgid ""
 "has tremendous power and it will be difficult if not impossible to slay her "
 "outright. Discover her one weakness to defeat her."
 msgstr ""
-"Obrońca lasu czerpie swą moc z ducha drzew. Ma ogromną moc a zabicie jej w "
+"Obrońca lasu czerpie swą siłę z ducha drzew. Ma ogromną moc a zabicie jej w "
 "bezpośredniej walce będzie trudne jeśli nie wręcz niemożliwe. Odkryj jej "
 "jedyną słabość by ją pokonać."
 
@@ -680,7 +680,7 @@ msgid ""
 "await you in this strange land..."
 msgstr ""
 "W jakiś sposób ogromna kula płomieni w przestworzach zmieniła swoje "
-"położenie i teraz jej okropna jasność niemal nie jest już aź tak zła. "
+"położenie i teraz jej okropna jasność niemal nie jest już taka zła. "
 "Zastanawiasz się jakie inne niespodzianki oczekują cię w tej dziwnej "
 "krainie..."
 
@@ -842,7 +842,7 @@ msgid ""
 "Solids you are nothing more than an amorphous menace."
 msgstr ""
 "Dni kiedy działałeś jedynie na samym instynkcie, bezmyślnie pożerając "
-"wszystko co weszło ci w drogę się skończyły. Zaglądając w swe nowoposzyskane "
+"wszystko co weszło ci w drogę się skończyły. Zaglądając w swe nowopozyskane "
 "wspomnienia wiesz, że pobliskie ludzkie miasto nigdy nie przestanie na "
 "ciebie polować. Dla stałych jesteś niczym więcej jak bezkształtnym "
 "zagrożeniem."
@@ -869,7 +869,7 @@ msgid ""
 "scatter your forces! Lightning arcs from the sky, slamming into you, and all "
 "goes dark..."
 msgstr ""
-"O nie, to trwało zbyt długo! Obrońca lasu zdołała obrócić całą knieję "
+"O nie, to trwało zbyt długo! Obrońca lasu zdołał obrócić całą knieję "
 "przeciwko tobie! Drzewa ruszają ze swych miejsc i cię atakują! Gwałtowne "
 "deszcze rozpędzają twoje siły! Świetliste łuki z nieba, uderzają w ciebie i "
 "wszystko pogrąża się w mroku..."
@@ -901,7 +901,7 @@ msgid ""
 "Wipe out the defilers my love. I bound your spirit with mine to the heart of "
 "this forest. We can't be defeated!"
 msgstr ""
-"Zmieć plugastwo ukochany. Przywiązałam twego ducha wraz z moim di serca tej "
+"Zmieć plugastwo ukochany. Przywiązałam twego ducha wraz z moim do serca tej "
 "kniei. Nie możemy zostać pokonani!"
 
 #. [event]
@@ -6005,8 +6005,8 @@ msgid ""
 "You want to SELL us weapons? You're not just going to give them to us? "
 "Because, as you so correctly pointed out, if we lose, you die too."
 msgstr ""
-"Chcesz SPRZEDAWAĆ nam broń? Nie zamierzasz nam jej po prostu dać? Ponieważ "
-"jak słusznie to przedstawiłeś, jeśli przegramy ty zginiesz również."
+"Chcesz SPRZEDAWAĆ nam broń? Nie zamierzasz nam jej po prostu dać? Ponieważ, "
+"jak słusznie zauważyłeś, jeśli przegramy ty również zginiesz."
 
 #. [then]
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:75
@@ -6257,7 +6257,7 @@ msgid ""
 "the gigantic barrel fondly) Baby, I'm gonna miss ya!"
 msgstr ""
 "Co jest?! Całe miasto pod bronią a orkowie u bram? (Klepie czule gigantyczną "
-"bęczkę) Dziecko, będę tęsknił!"
+"bęczkę) Dziecinko, będę tęsknił!"
 
 #. [then]
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:519
@@ -7125,7 +7125,7 @@ msgstr "Demony! Mam nadzieję, że Aurelia zabije... Was... Wszystkich... Uch...
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1605
 #: Ooze_Mini_Campaign/scenarios/4_mp_Pinewood_Siege.cfg:2833
 msgid "No! I'm too pretty to die!"
-msgstr "Nie! Jestem za śliczna by umierać!"
+msgstr "Nie! Jestem zbyt śliczna by umierać!"
 
 #. [then]
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1612
@@ -7696,8 +7696,8 @@ msgid ""
 "Reporting for duty sir! We even brought the troll slav-- errr...troll mascot "
 "with us to help out!"
 msgstr ""
-"Zgłaszamy się na sir! Przyprowadziliśmy nawet trolla niew-- eee... Trolla "
-"maskotkę do pomocy!"
+"Zgłaszamy się na służbę sir! Przyprowadziliśmy nawet trolla niew-- eee... "
+"Trolla maskotkę do pomocy!"
 
 #. [event]
 #. [message]: speaker=unit
@@ -7724,7 +7724,7 @@ msgid ""
 "ripples through your consciousness, stunning you and handing victory to your "
 "hated Creator!"
 msgstr ""
-"(Pozwoliłeś Imperialnemu Magowi zabić towarzyszącą ci galaretę. Fale "
+"(Pozwoliłeś Imperialnemu Magowi zabić towarzyszącą ci galaretę. Fala "
 "martwoty miesza twoją świadomość, ogłuszając cię i dając zwycięstwo twemu "
 "znienawidzonemu twórcy!)"
 
@@ -7909,7 +7909,7 @@ msgstr "Nie zrobisz czego?"
 #. [then]
 #: Ooze_Mini_Campaign/scenarios/4_mp_Pinewood_Siege.cfg:2617
 msgid "I won't murder these innocent people. It's not right!"
-msgstr "Nie zamorduję niewinnych ludzi. To nie jest dobre!"
+msgstr "Nie zamorduję niewinnych ludzi. To nie można!"
 
 #. [then]
 #: Ooze_Mini_Campaign/scenarios/4_mp_Pinewood_Siege.cfg:2618
@@ -7926,9 +7926,9 @@ msgstr ""
 "Dlatego twoja świadomość została oddzielona od mojej. To smutne gdyż miałam "
 "dla ciebie raczej dużo uczucia. Być może z tego powodu, że nasi elficcy "
 "nosiciele byli kochankami a ich wspomnienia zostały odciśnięte na naszych, A "
-"może dlatego, iż jesteś jedną świadomą galaretą jako spotkałam przez wiele "
-"lat mego istnienia. Lecz teraz widzę, że lepiej mi bez ciebia. Kogo nie mogę "
-"kontrolować temu nie mogę ufać, musi zostać zniszczony."
+"może dlatego, iż jesteś jedyną świadomą galaretą jaką spotkałam przez wiele "
+"lat mego istnienia. Lecz teraz widzę, że lepiej mi bez ciebie. Kogo nie mogę "
+"kontrolować temu nie mogę ufać, więc muszę go zniszczyć."
 
 #. [then]
 #: Ooze_Mini_Campaign/scenarios/4_mp_Pinewood_Siege.cfg:2619
