@@ -1,11 +1,12 @@
+# Muskanty <muskanty@gmail.com>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ooze_Mini_Campaign-1.12\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2014-04-14 13:21+0200\n"
 "PO-Revision-Date: 2012-10-13 04:19+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"Last-Translator: Muskanty <muskanty@gmail.com>\n"
+"Language-Team: français <wesnoth@ml.free.fr>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,31 +16,38 @@ msgstr ""
 #. [campaign]: id=ooze_campaign, type=hybrid
 #: Ooze_Mini_Campaign/_main.cfg:8
 msgid "Ooze Mini-Campaign"
-msgstr ""
+msgstr "Micro-campagne vase"
 
 #. [campaign]: id=ooze_campaign, type=hybrid
 #: Ooze_Mini_Campaign/_main.cfg:11
 msgid "OC"
-msgstr ""
+msgstr "CV"
 
 #. [campaign]: id=ooze_campaign, type=hybrid
 #: Ooze_Mini_Campaign/_main.cfg:20
+#, fuzzy
 msgid ""
 "You are an ooze, and you are hungry. Devour the foolish intruders that have "
 "entered your domain! Four levels, including an RPG level.\n"
 "    \n"
 "Multiplayer: For network game latest version is recommended!"
 msgstr ""
+"Vous êtes une vase, et vous êtes affamé. Dévorez tous ceux qui "
+"envahissent à votre domaine! Quatre niveaux, incluant un niveau RPG.\n"
+"    \n"
+"Multijoueur: Le version plus récent est préférable pour les jeux network!"
 
 #. [scenario]: id=1_Lab
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:11
+#, fuzzy
 msgid "Home Sweet Home"
-msgstr ""
+msgstr "Chez-soi"
 
 #. [scenario]: id=1_Lab
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:14
+#, fuzzy
 msgid "Ooze's Mini-Campaign"
-msgstr ""
+msgstr "Micro-campagne de la vase"
 
 #. [modify_side]
 #. [side]
@@ -54,65 +62,81 @@ msgstr ""
 #: Ooze_Mini_Campaign/scenarios/4_mp_Pinewood_Siege.cfg:1357
 #: Ooze_Mini_Campaign/scenarios/4_mp_Pinewood_Siege.cfg:2022
 #: Ooze_Mini_Campaign/scenarios/4_mp_Pinewood_Siege.cfg:2116
+#, fuzzy
 msgid "Oozes"
-msgstr ""
+msgstr "Les vases"
 
 #. [objective]: condition=win
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:85
+#, fuzzy
 msgid ""
 "Your home is no longer safe. Devour the human Militia Leader to escape "
 "outside"
 msgstr ""
+"Votre maison n'est plus en sécurité. Pour la s'enfuir, dévore le chef "
+"humain de la milice
 
 #. [objective]: condition=win
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:90
+#, fuzzy
 msgid "Killing all enemy leaders could be a rewarding experience..."
-msgstr ""
+msgstr "Tuer tous les adversaires ça sera une expérience gratifiante..."
 
 #. [objective]: condition=lose
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:96
 #: Ooze_Mini_Campaign/scenarios/4_mp_Pinewood_Siege.cfg:2077
 #: Ooze_Mini_Campaign/utils/dm.cfg:32
+#, fuzzy
 msgid "Death of the Master Ooze 2"
-msgstr ""
+msgstr "La morte du grande vase II"
 
 #. [scenario]: id=1_Lab
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:142
+#, fuzzy
 msgid ""
 "Note: In this co-op campaign you will share your gold gains and losses with "
 "your partner evenly. For example, if one Master Ooze gets a reward of 100 "
 "gold pieces you will both each receive 50 gold pieces."
 msgstr ""
+"Notez : Pendant cette campagne coopérative, vous partagerez la moitié de vos "
+"gagnes ou vos pertes avec votre allié. Par éxemple; si une parmis les grandes "
+"vases gagne 100 pièces d'or, vous deux vous recevrez 50 pièces chacun."
 
 #. [label]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:171
+#, fuzzy
 msgid "Ruined Laboratory"
-msgstr ""
+msgstr "Laboratoire en ruine"
 
 #. [label]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:175
+#, fuzzy
 msgid "Flooded Ruins"
-msgstr ""
+msgstr "Les Ruines inondées"
 
 #. [label]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:179
+#, fuzzy
 msgid "Spider Den"
-msgstr ""
+msgstr "Repaire de l'araignée"
 
 #. [label]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:183
+#, fuzzy
 msgid "Goblin Village"
-msgstr ""
+msgstr "Village gobelin"
 
 #. [label]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:187
+#, fuzzy
 msgid "Thieves' Guild"
-msgstr ""
+msgstr "Repaire de voleurs"
 
 #. [label]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:191
+#, fuzzy
 msgid "To the Surface"
-msgstr ""
+msgstr "À la surface"
 
 #. [event]
 #. [event]: id=Master Ooze, id=Master Ooze 2
@@ -138,8 +162,9 @@ msgstr ""
 #: Ooze_Mini_Campaign/scenarios/3_mp_Pinewood.cfg:3083
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1210
 #: Ooze_Mini_Campaign/scenarios/4_mp_Pinewood_Siege.cfg:2102
+#, fuzzy
 msgid "Master Ooze"
-msgstr ""
+msgstr "Grande vase"
 
 #. [event]
 #. [scenario]: id=1_Lab
@@ -152,13 +177,15 @@ msgstr ""
 #: Ooze_Mini_Campaign/scenarios/3_mp_Pinewood.cfg:2705
 #: Ooze_Mini_Campaign/scenarios/3_mp_Pinewood.cfg:3173
 #: Ooze_Mini_Campaign/scenarios/4_mp_Pinewood_Siege.cfg:2103
+#, fuzzy
 msgid "Master Ooze 2"
-msgstr ""
+msgstr "Grande vase II"
 
 #. [side]: type=Sergeant, id=Militia Leader
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:212
+#, fuzzy
 msgid "Militia Leader"
-msgstr ""
+msgstr "Chef de la milice"
 
 #. [modify_side]
 #. [side]: type=Sergeant, id=Militia Leader
@@ -168,80 +195,105 @@ msgstr ""
 #: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:358
 #: Ooze_Mini_Campaign/scenarios/2_mp_Forest_Defender.cfg:143
 #: Ooze_Mini_Campaign/scenarios/2_mp_Forest_Defender.cfg:568
+#, fuzzy
 msgid "Villagers"
-msgstr ""
+msgstr "Villageois"
 
 #. [side]: type=Footpad, id=Thief Leader
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:236
+#, fuzzy
 msgid "Thief Leader"
-msgstr ""
+msgstr "Chef voleur"
 
 #. [side]: type=Footpad, id=Thief Leader
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:242
+#, fuzzy
 msgid "Thieves"
-msgstr ""
+msgstr "Voleurs"
 
 #. [side]: type=Goblin Rouser, id=Goblin Chieftan
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:268
+#, fuzzy
 msgid "Goblin Chieftan"
-msgstr ""
+msgstr "Chef gobelin"
 
 #. [side]: type=Blood Bat, id=Bloated Bat
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:292
+#, fuzzy
 msgid "Bloated Bat"
-msgstr ""
+msgstr "Chauve-souris ballonnée"
 
 #. [side]: type=Giant Spider, id=Spider Queen
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:316
+#, fuzzy
 msgid "Spider Queen"
-msgstr ""
+msgstr "Reine araignée"
 
 #. [side]: type=Giant Spider, id=Spider Queen
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:321
+#, fuzzy
 msgid "Spiders"
-msgstr ""
+msgstr "Araignées"
 
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:392
+#, fuzzy
 msgid ""
 "You have only vague ideas of how you came into being, or how long you've "
 "lived. All you know is that you're an ooze, and you're hungry!"
 msgstr ""
+"Vous possèdez que des mémoires vagues en ce qui concerne vos débuts, et mème "
+"votre âge est oublié. Tous ce qui est certaine est que vous, vous êtes une "
+"vase, et que vous êtes affamé!
 
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:393
+#, fuzzy
 msgid ""
 "By engulfing enemies and digesting them, you can create smaller copies of "
 "yourself!"
-msgstr ""
+msgstr "En engloutissant les ennemis et ensuite les assimiler, vous pouvez "
+"vous copier en créeant les versions miniscules de vous-même!"
 
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:394
+#, fuzzy
 msgid ""
 "I'm certain the goblins who raided our town fled into these caves. Be on "
 "your guard men!"
 msgstr ""
+"Je suis certain que ces envahisseurs gobelins du village l'ont fui "
+"par ces cavernes. Soyez prêts, mes gars!"
 
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:395
+#, fuzzy
 msgid ""
 "Once an evil wizard used these caves for his unholy experiments. There's no "
 "telling what sort of monsters we could run into down here."
 msgstr ""
+"On ranconte une histoire à propos d'un sorcier qui demeurait dans ces cavernes "
+"en les utilisant pour ses créations maléfiques. Allons les éviter."
 
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:396
+#, fuzzy
 msgid ""
 "Hrrr...so...human want fight, eh? We give them fight! They all die today!"
 msgstr ""
+"Hein? Les humains cherchent-t-ils un combat? Un combat ils recevraient! Tuez-les tous!"
 
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:397
+#, fuzzy
 msgid ""
 "Damn! These caves were supposed to be our secret hideout! SECRET, as in, "
 "something nobody knows about! But between the monsters and the goblins and "
 "the militias, this place is busier than Tarakin City on market day!"
 msgstr ""
+"Diable! Ces cavernes étaient censés d'êtres notre cachette! CACHETTE, de la type "
+"qui reste cachée, surtout! Damne les secrets, alors, ça ressemble plutôt le marché "
+"au Tarakin, entre les espèces qu'on trouve dedans!"
 
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:398
