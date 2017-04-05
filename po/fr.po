@@ -293,48 +293,64 @@ msgid ""
 msgstr ""
 "Diable! Ces cavernes étaient censés d'êtres notre cachette! CACHETTE, de la type "
 "qui reste cachée, surtout! Damne les secrets, alors, ça ressemble plutôt le marché "
-"au Tarakin, entre les espèces qu'on trouve dedans!"
+"au Tarakin, parmi les espèces qu'on trouve dedans!"
 
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:398
+#, fuzzy
 msgid ""
 "Grab yer loot boys; we're fight'n our way outta this place. Anyone who gets "
 "in our way gets their head split open, aye?"
 msgstr ""
-
+"Ranger le butin, gars; nous allons quitter cet endroit. Mettez l'hache au crâne "
+"de quiconque qui se trouve sur votre sentier!"
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:399
+#, fuzzy
 msgid ""
 "Food, food, FOOD! You've never seen so much food before! Your gelatinous "
 "form quivers with excitement as your meals approach."
 msgstr ""
+"Quel festin! Plus jamais on verra un repas comme tel. Votre corps gélatineux"
+"frémit d'enthousiasme aux entrées qui parviennent."
 
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:400
+#, fuzzy
 msgid ""
 "But your prey is not harmless. You notice that many of them carry sharp "
 "sticks to poke you with, or pieces of wood to club you with. You realize "
 "that you may be overwhelmed by the sheer numbers of prey heading your way."
 msgstr ""
+"Cependant, vous notez que le gibier n'est pas sans aucunes défences. Le proie, "
+"il possède des bâtons pointus et des massues pour vous harceler. C'est possible "
+"que la quantité des envahisseurs va vous faire accablé, eventuellement."
 
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:401
+#, fuzzy
 msgid ""
 "Perhaps it would be better to relocate to some place where the prey isn't so "
 "dangerous..."
 msgstr ""
+"Peut-être ça serait sage d'echapper la situation pour l'instant et de se regrouper "
+"à un endroit moins dangereux..."
 
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:402
+#, fuzzy
 msgid ""
 "You split yourself into smaller pieces to prepare for the coming onslaught..."
 msgstr ""
+"Vous vous brisez en plusiers petits morceaux pour se défendre contre l'assaut..."
 
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:414
+#, fuzzy
 msgid ""
 "What's this?! One of your parts seems to have developed a will of its own!"
 msgstr ""
+""
 
 #. [scenario]: id=1_Lab
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:437
